@@ -1,0 +1,33 @@
+The purpose of this website is to inform the reader about the following:
+    Katherine Johnson and the role she played during the Mercury Atlas-6 mission
+    Our simulated re-entry of Friendship 7
+    Our 3D-printed model of Friendship 7's orbit
+
+Goals:
+    Capture the reader's attention by showing the simulation first right when the website is loaded
+    Educate the reader on Katherine Johnson and the crucial role she played during the Mercury Atlas-6 mission
+    Educate the reader on NASA's Mercury Atlas-6 mission
+    Compare and contrast how satellite re-entry was solved back then vs now
+    Visualize Katherine Johnson's work using the VPython library and animated graphs
+    Compare Euler's method with better numerical methods such as the Runge Kutta methods
+    Show the globe we made that simulates the orbit of the Friendship 7 satellite
+
+Sections:
+    Intro: How we simulated the re-entry of one of NASA"s capsules
+    Katherine Johnson description: Talk about Ketherine Johnson and the role she played during the mission
+    Mercury Atlas-6 mission description: Talk about the mission and why it was important
+    The math behind satellite re-entry: Talk about why Euler's method was needed. Explain how the computations were made during the time of the mission
+    Modernizing it with code: Talk about how modern programming languages such as Python can automate these computations for us
+    Visualizing it with VPython: Talk about visualizing Katherine Johson's with VPython and why it can help understand what Euler's method is about
+    Video of Cassy's globe: Talk about how we managed to create a 3D model of the Friendship 7 orbit
+
+Interactive parts:
+    Create a play button that will play the re-entry simulation
+    Create a play button to play the video of Cassy's globe in action
+    Create interactive graphs for the following:
+        Newton's method
+        Euler's method
+        Runge Kutta methods
+        Satellite ground track
+        Relationship between orbital inclination, launch azimuth, and latitude
+    
