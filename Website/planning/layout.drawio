@@ -1,0 +1,76 @@
+<mxfile host="65bd71144e">
+    <diagram id="LbMlbN-sDWOCwa2arGub" name="Page-1">
+        <mxGraphModel dx="1397" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;h1&gt;&lt;b&gt;How we simulated the re-entry of NASA's Friendship 7 capsule&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="40" width="410" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;h1&gt;&lt;b&gt;Play the simulation&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="100" width="230" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;h1&gt;&lt;b&gt;Katherine Johnson and Her Role at NASA&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="290" width="410" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Talk about Katherine Johnson's background and her history with NASA. Explain her role in returning the pilot of the mission, John Glenn, back to Earth safely. Mention that she inspired us to modernize and visualize her work.&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="350" width="510" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;h1&gt;&lt;b&gt;NASA's Mercury Atlas-6 Mission&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="580" width="410" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Talk about the importance of NASA's Mercury Atlas-6 mission. Mention the difficult problem of satellite reentry and briefly explain why it's such a hard problem to solve. Mention how it was Katherine Johnson's idea to use the numerical method, Euler's method, to predict where John Glen was going to land.&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="640" width="510" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;h1&gt;&lt;b&gt;The Math Behind Satellite Re-entry&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="890" width="410" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Talk about the math that goes into solving the re-entry problem. Explain how everything had to be computed by hand back then which is what inspired us to solve the very same problem but using modern technology.&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="950" width="510" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;h1&gt;&lt;b&gt;Computing the Initial Conditions&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="1240" width="410" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Explain the importance of getting the initial conditions. Explain how Katherine Johnson was able to get these initial conditions using Newton's method and some of Kepler's laws.&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="1300" width="510" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;h1&gt;&lt;b&gt;Interactive graph that shows how Newton's method works&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+                    <mxGeometry x="295" y="1460" width="260" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;h1&gt;&lt;b&gt;Interactive graph that shows the relationship between launch azimuth, orbital inclination, and latitude&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+                    <mxGeometry x="295" y="1600" width="260" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;h1&gt;&lt;b&gt;Euler's method&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="2290" width="410" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;The next step is to implement Euler's method into our code. Show bits of code where Euler's method is being implemented.&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="2350" width="510" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Show the code as well&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="555" y="1510" width="175" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Show the code as well&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="555" y="1685" width="175" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;h1&gt;&lt;b&gt;Setting up the Python Code&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="1920" width="410" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Now that we have the initial conditions, we can start setting up our simulation. Show bits of the code where the initial conditions are being used.&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="1980" width="510" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;h1&gt;&lt;b&gt;Air Density&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="2650" width="410" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Talk about how air density is a significant factor when it comes to satellite re-entry. Explain what we did to include air density into our simulation.&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="2710" width="510" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;h1&gt;Final Result&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="2960" width="410" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Show the simulation again along with data such as how many frames were computed, the size of dt, total simulation time, our simulations splashdown coordinates vs the real splashdown coordinates, etc&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="3020" width="510" height="160" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
